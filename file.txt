@@ -1,1 +1,4 @@
 hello everyone!
+Live Practice From DSC UET lahore Git Workshop
+Learning Git & GIthub 
+Applying for Hacktoberfest
